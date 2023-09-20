@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://sapnex1.github.io/sitemap.xml
