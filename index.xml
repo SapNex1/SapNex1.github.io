@@ -33,6 +33,63 @@
     </item>
     
     <item>
+      <title>Пост за неделю с 25-09-2023 по 01-10-2023</title>
+      <link>https://sapnex1.github.io/post/post2/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://sapnex1.github.io/post/post2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Лабораторные работы по научному программированию&lt;/li&gt;
+&lt;li&gt;Лаборатноре работы по МОЗИиИБ&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;научное-программирование&#34;&gt;Научное программирование&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Лабораторная работа №3. Введение в работу с Octave.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ссылка на репозиторий: &lt;a href=&#34;https://www.github.io/SapNex1/SciProg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.github.io/SapNex1/SciProg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Индивидуальный проект. Этап 2.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ссылка на репозиторий: &lt;a href=&#34;https://www.github.io/SapNex1/sapnex1.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.github.io/SapNex1/sapnex1.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;мозиииб&#34;&gt;МОЗИиИБ&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Лабораторная работа №3. Шифрование гаммированием.
+&lt;ul&gt;
+&lt;li&gt;Ссылка на репозиторий: &lt;a href=&#34;https://www.github.io/SapNex1/InfoSec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.github.io/SapNex1/InfoSec&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Git. Управление версиями.</title>
       <link>https://sapnex1.github.io/post/jupyter/</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
@@ -266,7 +323,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-812953647&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-741569832&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -276,7 +333,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-812953647&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-741569832&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -552,6 +609,95 @@ Crash --&gt; [*]
   &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python&lt;br&gt;
 
   &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+&lt;h3 id=&#34;basics-of-markdown&#34;&gt;Basics of Markdown&lt;/h3&gt;
+&lt;p&gt;Markdown (Маркдаун) - это легковесный язык разметки, который используется для форматирования текста в веб-документах. Он позволяет создавать простые структурированные тексты без необходимости использования сложных HTML-тегов. Вот основы Markdown без использования формул:&lt;/p&gt;
+&lt;p&gt;Заголовки: Вы можете создавать заголовки, добавляя решетку (#) перед текстом. Количество решеток определяет уровень заголовка.&lt;/p&gt;
+&lt;h1 id=&#34;заголовок-1&#34;&gt;Заголовок 1&lt;/h1&gt;
+&lt;h2 id=&#34;заголовок-2&#34;&gt;Заголовок 2&lt;/h2&gt;
+&lt;h3 id=&#34;заголовок-3&#34;&gt;Заголовок 3&lt;/h3&gt;
+&lt;p&gt;Текстовое форматирование:&lt;/p&gt;
+&lt;p&gt;Курсив - обрамите текст звёздочками или подчёркиваниями: &lt;em&gt;Курсив&lt;/em&gt; или &lt;em&gt;Курсив&lt;/em&gt;.
+Жирный - обрамите текст двойными звёздочками или подчёркиваниями: &lt;strong&gt;Жирный&lt;/strong&gt; или &lt;strong&gt;Жирный&lt;/strong&gt;.
+Зачёркнутый - используйте две тильды: &lt;del&gt;Зачёркнутый&lt;/del&gt;.
+Списки:&lt;/p&gt;
+&lt;p&gt;Упорядоченные списки:&lt;/p&gt;
+&lt;p&gt;Copy code&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Пункт 1&lt;/li&gt;
+&lt;li&gt;Пункт 2&lt;/li&gt;
+&lt;li&gt;Пункт 3
+Неупорядоченные списки:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Copy code&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Элемент 1&lt;/li&gt;
+&lt;li&gt;Элемент 2&lt;/li&gt;
+&lt;li&gt;Элемент 3
+Ссылки:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Copy code
+&lt;a href=&#34;URL&#34;&gt;Текст ссылки&lt;/a&gt;
+Пример: &lt;a href=&#34;https://www.openai.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenAI&lt;/a&gt;
+Изображения:&lt;/p&gt;
+&lt;p&gt;Copy code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;URL_%d0%b8%d0%b7%d0%be%d0%b1%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f&#34; alt=&#34;Альтернативный текст&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Пример: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.openai.com/images/openai-logo.svg&#34; alt=&#34;Логотип OpenAI&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Цитаты:&lt;/p&gt;
+&lt;p&gt;markdown&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Это цитата.
+Горизонтальная линия:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;Код:&lt;/p&gt;
+&lt;p&gt;Встроенный код: Заключите код в обратные апострофы: &lt;code&gt;код&lt;/code&gt;.
+Блочный код: Используйте три обратных апострофа или три тильды для создания блока кода:&lt;/p&gt;
+&lt;p&gt;// Пример кода
+function sayHello() {
+console.log(&amp;ldquo;Hello, World!&amp;rdquo;);
+}&lt;/p&gt;
+&lt;p&gt;Подчёркивание - текст подчёркивается двумя знаками подчёркивания: &lt;strong&gt;Подчёркнутый текст&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Это лишь начало основ Markdown. Markdown поддерживает более продвинутые возможности, но эти базовые элементы позволят вам начать создавать читабельные документы в формате Markdown&lt;/p&gt;
 &lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
 </description>
     </item>
