@@ -33,7 +33,7 @@
     </item>
     
     <item>
-      <title>Пост за неделю с 25-09-2023 по 01-10-2023</title>
+      <title>Пост за неделю с 01-10-2023 по 14-10-2023</title>
       <link>https://sapnex1.github.io/post/post2/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://sapnex1.github.io/post/post2/</guid>
@@ -323,7 +323,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-741569832&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-421569873&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -333,7 +333,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-741569832&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-421569873&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -612,9 +612,6 @@ Crash --&gt; [*]
 &lt;h3 id=&#34;basics-of-markdown&#34;&gt;Basics of Markdown&lt;/h3&gt;
 &lt;p&gt;Markdown (Маркдаун) - это легковесный язык разметки, который используется для форматирования текста в веб-документах. Он позволяет создавать простые структурированные тексты без необходимости использования сложных HTML-тегов. Вот основы Markdown без использования формул:&lt;/p&gt;
 &lt;p&gt;Заголовки: Вы можете создавать заголовки, добавляя решетку (#) перед текстом. Количество решеток определяет уровень заголовка.&lt;/p&gt;
-&lt;h1 id=&#34;заголовок-1&#34;&gt;Заголовок 1&lt;/h1&gt;
-&lt;h2 id=&#34;заголовок-2&#34;&gt;Заголовок 2&lt;/h2&gt;
-&lt;h3 id=&#34;заголовок-3&#34;&gt;Заголовок 3&lt;/h3&gt;
 &lt;p&gt;Текстовое форматирование:&lt;/p&gt;
 &lt;p&gt;Курсив - обрамите текст звёздочками или подчёркиваниями: &lt;em&gt;Курсив&lt;/em&gt; или &lt;em&gt;Курсив&lt;/em&gt;.
 Жирный - обрамите текст двойными звёздочками или подчёркиваниями: &lt;strong&gt;Жирный&lt;/strong&gt; или &lt;strong&gt;Жирный&lt;/strong&gt;.
@@ -688,7 +685,6 @@ Crash --&gt; [*]
 &lt;p&gt;Это цитата.
 Горизонтальная линия:&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;hr&gt;
 &lt;p&gt;Код:&lt;/p&gt;
 &lt;p&gt;Встроенный код: Заключите код в обратные апострофы: &lt;code&gt;код&lt;/code&gt;.
 Блочный код: Используйте три обратных апострофа или три тильды для создания блока кода:&lt;/p&gt;
